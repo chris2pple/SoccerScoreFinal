@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoccerScoreFinal</string>
+    <string name="win">Win</string>
+    <string name="draw">Draw</string>
+    <string name="foul">Foul</string>
+    <string name="reset">Reset</string>
+</resources>
